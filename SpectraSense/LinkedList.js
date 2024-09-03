@@ -1,6 +1,6 @@
 // AlphaTech - LinkedList Module
 // This module implements a linked list to manage features and their coefficients for predictive analysis.
-// Developed by AlphaTech Solutions
+// Developed by AlphaTech 
 
 class ListNode {
     /**
