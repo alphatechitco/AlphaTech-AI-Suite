@@ -1,6 +1,6 @@
 // AlphaTech - Binary Search Tree (BST) Module
 // This module implements a binary search tree to manage feature contributions in predictive analysis.
-// Developed by AlphaTech Solutions
+// Developed by AlphaTech
 
 class TreeNode {
     /**
