@@ -1,6 +1,6 @@
 // AlphaTech- Express Server for AutoSense and AutoEntertain
 // This server handles requests related to predictive analysis and media entertainment features.
-// Developed by AlphaTech Solutions
+// Developed by AlphaTech
 
 const express = require('express'); // Import Express framework
 const path = require('path'); // Import path module for file handling
