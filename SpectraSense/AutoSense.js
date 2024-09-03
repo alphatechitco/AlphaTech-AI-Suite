@@ -1,6 +1,6 @@
 // AlphaTech - AutoSense Module
 // This module is designed for predictive analysis using linked lists and binary search trees.
-// Developed by AlphaTech Solutions
+// Developed by AlphaTech
 
 const db = require('./dbconfig'); // Import database configuration
 const LinkedList = require('./LinkedList'); // Import LinkedList
