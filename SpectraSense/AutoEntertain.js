@@ -1,6 +1,6 @@
 // AlphaTech - AutoEntertain Module
 // This module helps in retrieving and recommending movies based on a genre and user-selected movie.
-// Developed by AlphaTech Solutions
+// Developed by AlphaTech
 
 const db = require('./dbconfig'); // Import database configuration
 
