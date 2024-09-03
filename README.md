@@ -34,11 +34,14 @@ AutoSense & AutoEntertain is a powerful project combining predictive analytics a
    git clone https://github.com/alphatechitco/AlphaTech-AI-Suite.git
 Navigate to the project directory:
 
-cd AutoSense-AutoEntertain
+cd SpectraSense
 Install the required dependencies:
 
 npm install
 Set up your database configuration: Ensure your database connection settings are correctly configured in dbconfig.js.
+
+Data for Database
+Use The CSV files provided for standard data usage and test of project
 
 Running the Project
 Start the server:
